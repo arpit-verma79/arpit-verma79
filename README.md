@@ -1,4 +1,4 @@
-![logo]([https://github.com/arpit-verma79/arpit-verma79/blob/main/Github%20Banner.png](https://github.com/arpit-verma79/arpit-verma79/blob/main/github-header-banner.png))
+![logo](https://github.com/arpit-verma79/arpit-verma79/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
